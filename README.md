@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @monzurrahman
 - 👀 I’m interested in website development 
-- 🌱 I’m currently learning wordpress
+- 🌱 I’m Wordpress, Elementor and Figma Expert
 - 💞️ I’m looking to collaborate on wordpress
-- 📫 ...
+- 📫 ...I'm expert in wordpress theme development, theme- plugin heavy customization, speed optimization, bug fixing, Security monitoring, Database and website backup, updating, working with cPanel, site design and making mobile friendly, redesign, UX improvement, Basic photoshop handling, FTP, SSL, DNS settings etc.
 
 <!---
 monzurrahman/monzurrahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
