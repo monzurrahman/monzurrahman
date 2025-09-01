@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @monzurrahman
 - 👀 I’m interested in website development 
-- 🌱 I’m Wordpress, Elementor and Figma Expert
+- 🌱 I’m Wordpress, Elementor, Server,  cPanel and Website management Expert
 - 💞️ I’m looking to collaborate on wordpress
 - 📫 ...I'm expert in wordpress theme development, theme- plugin heavy customization, speed optimization, bug fixing, Security monitoring, Database and website backup, updating, working with cPanel, site design and making mobile friendly, redesign, UX improvement, Basic photoshop handling, FTP, SSL, DNS settings etc.
 
